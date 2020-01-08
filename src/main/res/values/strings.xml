@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Utakmice</string>
+    <string name="novo">Nova utakmica</string>
+    <string name="promjeni">Promjeni utakmicu</string>
+    <string name="obrisi">Obriši utakmicu</string>
+    <string name="odustani">Odustani</string>
+    <string name="datum">Datum</string>
+    <string name="opis">Opis</string>
+    <string name="rezultat">Rezultat</string>
+    <string name="REST_URL">https://oziz.ffos.hr/nastava20192020/kdurdevic_19/utakmice</string>
+</resources>
